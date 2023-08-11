@@ -2,7 +2,6 @@
 ## Multi linear regression - step-by-step statistical methodology of model building
 
 In this project I'm trying to implement statitical analysis for the dataset available at https://archive.ics.uci.edu/dataset/186/wine+quality
-It is divided into four parts:
 
 
 	
@@ -32,7 +31,7 @@ It is divided into four parts:
 	  import math
 	  import matplotlib.pyplot as plt
 	  import seaborn as sns
-    import statsmodels.api as sm
+          import statsmodels.api as sm
 
 
 

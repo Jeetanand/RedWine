@@ -31,7 +31,7 @@ In this project I'm trying to implement statitical analysis for the dataset avai
 	  import math
 	  import matplotlib.pyplot as plt
 	  import seaborn as sns
-          import statsmodels.api as sm
+         
 
 
 
